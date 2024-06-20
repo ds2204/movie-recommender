@@ -44,12 +44,12 @@ Welcome to the Movie Recommender System! This application is built using Streaml
 
 Feature engineering is a crucial part of this project. It includes:
 
- **Data Cleaning**: Handling missing values, duplicates, and inconsistent data.
- **Feature Selection**: Identifying and selecting the most relevant features for the recommendation model.
- **Feature Transformation**: Normalizing and transforming features to improve model performance.
- **Text Vectorization**: Converting text data into numerical vectors using techniques like CountVectorizer.
- **Cosine Similarity**: Applying cosine similarity to measure the similarity between movie vectors.
- **Stemming**: Using stemming techniques to reduce words to their root forms for better text processing.
+- **Data Cleaning**: Handling missing values, duplicates, and inconsistent data.
+- **Feature Selection**:  Identifying and selecting the most relevant features for the recommendation model.
+- **Feature Transformation**: Normalizing and transforming features to improve model performance.
+- **Text Vectorization**: Converting text data into numerical vectors using techniques like TF-IDF.
+- **Cosine Similarity**: Applying cosine similarity to measure the similarity between movie vectors.
+- **Stemming**: Using stemming techniques to reduce words to their root forms for better text processing.
 
 ## API Reference
 
