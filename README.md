@@ -37,9 +37,8 @@ Welcome to the Movie Recommender System! This application is built using Streaml
    
 ## Usage
 
-**Select a movie from the dropdown menu.
-**Click the "Recommend" button to see the top 5 recommended movies along with their posters.
-
+- Select a movie from the dropdown menu.
+- Click the "Recommend" button to see the top 5 recommended movies along with their posters.
 ## Feature Engineering
 
 Feature engineering is a crucial part of this project. It includes:
