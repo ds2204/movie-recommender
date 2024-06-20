@@ -61,4 +61,5 @@ You need to have an API key from TMDb to use this feature.
 -Pandas
 -Requests
 -The Movie Database (TMDb)
+![Screenshot 2024-06-20 224210](https://github.com/ds2204/movie-recommender/assets/108814222/2fbb0a91-53a1-4043-95a0-d2fc3c15e428)
 
