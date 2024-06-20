@@ -13,11 +13,11 @@ Welcome to the Movie Recommender System! This application is built using Streaml
 
 ### Prerequisites
 
-*Python 3.9 or higher
-*Streamlit
-*Pandas
-*Requests
-*Pickle
+ *Python 3.9 or higher
+ *Streamlit
+ *Pandas
+ *Requests
+ *Pickle
 
 ### Installation
 
